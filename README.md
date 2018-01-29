@@ -30,5 +30,9 @@
 #### [Particles - 진행 중인 작품](https://youtu.be/OZnsdCPc7h4)
 [![Particles](http://img.youtube.com/vi/OZnsdCPc7h4/0.jpg)](https://youtu.be/OZnsdCPc7h4)
 
+### 이정효 작품
+#### [Rhythmical Creature](https://www.youtube.com/watch?v=3OX5Vn3wdk0)
+[![Rhythmical Creature](https://i.ytimg.com/vi/3OX5Vn3wdk0/maxresdefault.jpg)](https://www.youtube.com/watch?v=3OX5Vn3wdk0)
+
 ## Contact
 여러분의 공간에서 저희의 작품을 전시하고 싶으시거나 궁금한 점이 있으시면 hantaejae@gmail.com로 연락 주세요!
